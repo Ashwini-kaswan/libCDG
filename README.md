@@ -1,2 +1,2 @@
 # libCDG
-Visualizing C++ link time symbol dependencies. Take Architecture/Refactoring decisions for C/C++ monorepos in a calculative way.
+libCDG can be used to visualize, track and automate link time dependencies for c++ projects.
